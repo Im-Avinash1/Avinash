@@ -373,18 +373,18 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Facts
+# Feature
 --------------------------------------------------------------*/
-.facts {
+.Feature {
   padding-bottom: 30px;
 }
 
-.facts .count-box {
+.Feature .count-box {
   padding: 30px;
   width: 100%;
 }
 
-.facts .count-box i {
+.Feature .count-box i {
   display: block;
   font-size: 44px;
   color: #149ddd;
@@ -392,7 +392,7 @@ section {
   line-height: 0;
 }
 
-.facts .count-box span {
+.Feature .count-box span {
   font-size: 48px;
   line-height: 40px;
   display: block;
@@ -401,7 +401,7 @@ section {
   margin-left: 60px;
 }
 
-.facts .count-box p {
+.Feature .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
@@ -409,7 +409,7 @@ section {
   color: #122f57;
 }
 
-.facts .count-box a {
+.Feature .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
@@ -419,7 +419,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 
-.facts .count-box a:hover {
+.Feature .count-box a:hover {
   color: #1f5297;
 }
 
